@@ -14,6 +14,51 @@
       "id": 3,
       "name": "Wonder Woman",
       "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "ahmed",
+      "alterEgo": "ziad",
+      "id": 4
+    },
+    {
+      "name": "Asmaa",
+      "alterEgo": "jkkjjk",
+      "id": 5
+    },
+    {
+      "name": "qqq",
+      "alterEgo": "fff",
+      "id": 6
+    },
+    {
+      "name": "wwww",
+      "alterEgo": "aaaa",
+      "id": 7
+    },
+    {
+      "name": "aaaa",
+      "alterEgo": "cccc",
+      "id": 8
+    },
+    {
+      "name": "xscsd",
+      "alterEgo": ";k;;",
+      "id": 9
+    },
+    {
+      "name": "mmmm",
+      "alterEgo": "nnnn",
+      "id": 10
+    },
+    {
+      "name": "xxx",
+      "alterEgo": "vvv",
+      "id": 11
+    },
+    {
+      "name": "zzzz",
+      "alterEgo": "xxxx",
+      "id": 12
     }
   ],
   "users": [
@@ -25,7 +70,11 @@
   "channels": [
     {
       "id": "codeVolution",
-      "courses": ["react", "vue", "angular"]
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
     }
   ],
   "colors": [
