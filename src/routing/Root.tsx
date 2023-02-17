@@ -22,6 +22,14 @@ export const Root = () => {
       to: "/rq-paginated",
       title: "RQ Paginated",
     },
+    {
+      to: "/rq-infinite",
+      title: "RQ Infinite",
+    },
+    {
+      to: "/optimistic-updates",
+      title: "RQ optimistic updates",
+    },
   ]
 
   return (

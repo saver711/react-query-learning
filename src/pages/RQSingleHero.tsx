@@ -31,7 +31,7 @@ export const RQSingleHero = ({ title }: RQSingleHeroProps_TP) => {
   ///
   /////////// STATES
   ///
-  console.log(`RQSingleHero ~ data`, data)
+ 
 
   ///
   /////////// SIDE EFFECTS

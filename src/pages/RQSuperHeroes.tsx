@@ -108,7 +108,7 @@ export const RQSuperHeroes = ({ title }: RQSuperHeroesProps_TP) => {
     // useErrorBoundary,
     // meta,
   })
-  console.log(`RQSuperHeroes ~ postData`, postData)
+
 
   // mutate(variables, {
   //   onError,
@@ -133,7 +133,6 @@ export const RQSuperHeroes = ({ title }: RQSuperHeroesProps_TP) => {
   ///
   ///////////
   ///
-  console.log("data", data)
 
   ///
   /////////// EVENTS || IF CASES || FUNCTIONS

@@ -7,6 +7,8 @@ import { RQSuperHeroes } from "../pages/RQSuperHeroes"
 import { RQSingleHero } from "../pages/RQSingleHero"
 import { RQDependentQueries } from "../pages/RQDependentQueries"
 import { RQPaginatedQueries } from "../pages/RQPaginatedQueries"
+import { RQInfinite } from "../pages/RQInfinite"
+import { RQOptimisticUpdates } from "../pages/RQOptimisticUpdates"
 
 export const router = createBrowserRouter([
   {
@@ -43,6 +45,14 @@ export const router = createBrowserRouter([
       {
         path: "/rq-paginated",
         element: <RQPaginatedQueries title="RQ PaginatedQueries" />,
+      },
+      {
+        path: "/rq-infinite",
+        element: <RQInfinite title="RQ infinite" />,
+      },
+      {
+        path: "/optimistic-updates",
+        element: <RQOptimisticUpdates title="RQ optimistic updates" />,
       },
     ],
   },
